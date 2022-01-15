@@ -2,5 +2,5 @@
 Version=1.0
 Type=Application
 Name=Panoply Data Viewer
-Exec=/home/jovyan/Panoply/panoply.sh
-Icon=/home/jovyan/Panoply/panoply-app-icon.png
+Exec=/home/jovyan/PanoplyJ/panoply.sh
+Icon=/home/jovyan/PanoplyJ/panoply-app-icon.png
