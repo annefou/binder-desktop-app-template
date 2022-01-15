@@ -1,0 +1,8 @@
+#!/bin/bash
+
+wget https://www.giss.nasa.gov/tools/panoply/download/PanoplyJ-5.0.0.tgz
+
+tar zxf PanoplyJ-5.0.0.tgz
+
+cd Panoply
+wget https://raw.githubusercontent.com/NordicESMhub/docker-panoply/master/panoply-app-icon.png
